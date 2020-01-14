@@ -7,16 +7,19 @@ Desarrollador de Videojuegos
 Proyectos en los que he participado.
 
 Pappets:
+
 ![Pappets](images/pappets.png)
 - [itch.io](https://glassbeard.itch.io/pappets)
 - [GitHub](https://github.com/GlassBeardTeam/Puppet)
 
 Good Product Sorter
+
 ![Good Product Sorter](images/gps.png)
 - [itch.io](https://glassbeard.itch.io/goodproductsorter)
 - [GitHub](https://github.com/GlassBeardTeam/GoodProductSorter)
 
 DLabyrinth
+
 ![DLabyrinth](images/dlabyrinth.png)
 - [GitHub](https://github.com/MRxRafi/DLabyrinth_JeR)
 
