@@ -24,7 +24,4 @@ DLabyrinth:
 - [GitHub](https://github.com/MRxRafi/DLabyrinth_JeR)  
 
 
-Mi [Currículum Vitae](./ADRIÁN POZA GUILLERMO CV.pdf).
-
-
 Pásate por mi [GitHub](https://github.com/apozag) y mi [cuenta de YouTube](https://www.youtube.com/channel/UCClrFZQZYE2P-3rf0DiNNRQ) para ver más.  
