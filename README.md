@@ -1,35 +1,24 @@
 ## Portfolio Adrián Poza
 
-intro
+Desarrollador de Videojuegos 
 
 ### Proyectos
 
-estos son mis proyectos
+Proyectos en los que he participado.
 
-```markdown
-Syntax highlighted code block
+Pappets:
+![Pappets](images/pappets.png)
+- [itch.io](https://glassbeard.itch.io/pappets)
+- [GitHub](https://github.com/GlassBeardTeam/Puppet)
 
-# Header 1
-## Header 2
-### Header 3
+Good Product Sorter
+![Good Product Sorter](images/gps.png)
+- [itch.io](https://glassbeard.itch.io/goodproductsorter)
+- [GitHub](https://github.com/GlassBeardTeam/GoodProductSorter)
 
-- Bulleted
-- List
+DLabyrinth
+![DLabyrinth](images/dlabyrinth.png)
+- [GitHub](https://github.com/MRxRafi/DLabyrinth_JeR)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apozag/Adrian-Poza/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pásate por mi [GitHub](https://github.com/apozag) y mi [cuenta de YouTube](https://www.youtube.com/channel/UCClrFZQZYE2P-3rf0DiNNRQ) para ver más.
