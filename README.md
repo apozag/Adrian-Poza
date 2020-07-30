@@ -10,7 +10,7 @@ Desarrollador de Videojuegos
 
 Juegos educativo para la enseñanza de la programación en realidad aumentada en el que el alumno controla a un personaje mediante un lenguaje de bloques que representa el lenguaje Java con tal de cumplir ciertos objetivos.
 
-![Code Defender](images/codedefender.png)
+![Code Defender](images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
 
 ### Proyectos en los que he participado.  
@@ -19,7 +19,7 @@ Juegos educativo para la enseñanza de la programación en realidad aumentada en
 
 Se trata de una simulación de una colonia de hormigas en la que estas cooperan para encontrar y recolectar comida, defenderse de enemigos y hacer crecer el hormiguero. 
 
-![AntNest](images/antnest.png)
+![AntNest](images/antnest.PNG)
 - [BitBucket](https://bitbucket.org/VictorGonzalezRivera/antnest/src/master/)
 
 #### Pappets:  
