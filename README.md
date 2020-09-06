@@ -12,6 +12,7 @@ Juegos educativo para la enseñanza de la programación en realidad aumentada en
 
 ![Code Defender](images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
+- [Demo YouTube](https://youtu.be/mWUIAKRr1v0)
 
 ### Proyectos en los que he participado.  
 
