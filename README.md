@@ -8,7 +8,7 @@ Desarrollador de Videojuegos
 
 #### Code Defender:
 
-Juegos educativo para la enseñanza de la programación en realidad aumentada en el que el alumno controla a un personaje mediante un lenguaje de bloques que representa el lenguaje Java con tal de cumplir ciertos objetivos.
+Juego educativo para la enseñanza de la programación en realidad aumentada. El alumo aprende el lenguaje Java a través de un lenguaje de bloques con el cual controla a un personaje para completar los niveles.
 
 ![Code Defender](images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
