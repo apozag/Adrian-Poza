@@ -1,6 +1,10 @@
 # Portfolio Adrián Poza
 
-Desarrollador de Videojuegos 
+Desarrollador de videojuegos.
+
+## Sobre mí
+
+Nacido en Argentina, criado en Sevilla y estudiado en Madrid. Estudié Diseño y Desarrollo de Videojuegos, y actualmente realizo un máster en Informática Gráfica, Juegos y RV. Mi pasíon es la programación de gameplay, IA, gráficos y cualquier cosa que suponga un reto. Sin embargo, también tengo un lado artístico que intento utilizar para dar una cara más amigable a todo el software que hago.
 
 ## Proyectos
 
@@ -8,13 +12,21 @@ Desarrollador de Videojuegos
 
 #### Code Defender:
 
-Juego educativo para la enseñanza de la programación en realidad aumentada. El alumo aprende el lenguaje Java a través de un lenguaje de bloques con el cual controla a un personaje para completar los niveles.
+Juego educativo para la enseñanza de la programación en realidad aumentada. El alumno aprende el lenguaje Java a través de un lenguaje de bloques con el cual controla a un personaje para completar los niveles. Es el resultado de mi Trabajo de Fin de Grado.
 
 ![Code Defender](images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
 - [Demo YouTube](https://youtu.be/mWUIAKRr1v0)
 
 ### Proyectos en los que he participado.  
+
+#### Part-Time Hero
+
+Juego con modo multijugador e historia. En este juego competitivo por equipos, el jugador tendrá que coordinarse con su compañero para crear una serie de pedidos a partir de los recursos que se poporcionarán a partir de una cinta mecánica. Estos recursos son compartidos entre los equipos así como algunas herramientas necesarias. Todo vale con tal de ganar: robar, lanzar monstruos, ralentizar...
+Actualmente se encuentra en desarrollo.
+
+![Part-Time Hero](images/part-time-hero.png)
+- [GitHub](https://github.com/C404Games/part-time-hero)
 
 #### AntNest:
 
