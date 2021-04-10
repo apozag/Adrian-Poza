@@ -4,7 +4,7 @@ Desarrollador de videojuegos.
 
 ## Sobre mí
 
-Nacido en Argentina, criado en Sevilla y estudiado en Madrid. Estudié Diseño y Desarrollo de Videojuegos, y actualmente realizo un máster en Informática Gráfica, Juegos y RV. Mi pasíon es la programación de gameplay, IA, gráficos y cualquier cosa que suponga un reto. Sin embargo, también tengo un lado artístico que intento utilizar para dar una cara más amigable a todo el software que hago.
+Estudié Diseño y Desarrollo de Videojuegos, y actualmente realizo un Máster en Informática Gráfica, Juegos y RV. Mi pasíon es la programación de gameplay, IA, gráficos y cualquier cosa que suponga un reto. En mi tiempo libre disfruto desarrollando mi lado más artístico en el dibujo, haciendo deporte y tocando la guitarra.
 
 ## Proyectos
 
