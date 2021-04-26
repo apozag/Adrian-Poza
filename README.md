@@ -4,7 +4,7 @@ Desarrollador de videojuegos.
 
 ## Sobre mí
 
-Estudié Diseño y Desarrollo de Videojuegos, y actualmente realizo un Máster en Informática Gráfica, Juegos y RV. Mi pasíon es la programación de gameplay, IA, gráficos y cualquier cosa que suponga un reto. En mi tiempo libre disfruto desarrollando mi lado más artístico en el dibujo, haciendo deporte y tocando la guitarra.
+Estudié Diseño y Desarrollo de Videojuegos, y actualmente realizo un Máster en Informática Gráfica, Juegos y RV. Mi pasíon es la programación de gameplay, IA, gráficos y cualquier cosa que suponga un reto. En mi tiempo libre me mantengo cuerdo desarrollando mi lado artístico en el dibujo, haciendo deporte, tocando la guitarra y... jugando a videojuegos!
 
 ## Proyectos
 
