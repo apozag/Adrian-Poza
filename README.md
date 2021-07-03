@@ -1,43 +1,45 @@
-# Portfolio Adrián Poza
+# Adrián Poza Guillermo
 
-Desarrollador de videojuegos.
+Videogame developer.
 
-## Sobre mí
+## About me
 
-Estudié Diseño y Desarrollo de Videojuegos, y actualmente realizo un Máster en Informática Gráfica, Juegos y RV. Mi pasíon es la programación de gameplay, IA, gráficos y cualquier cosa que suponga un reto. En mi tiempo libre me mantengo cuerdo desarrollando mi lado artístico en el dibujo, haciendo deporte, tocando la guitarra y... jugando a videojuegos!
+I studied a degree in videogame design and developement and a masters course in computer graphics, games and VR. My passion is gameplay, AI and graphics programming together with anything that is a challenge. When I'm not in front of a computer, I enjoy developing my skills in visual art and music. I hope you find my projects interesting!
 
-## Proyectos
+## Games
 
-### Proyecto propios:
+### Personal Projects:
 
 #### Code Defender:
 
-Juego educativo para la enseñanza de la programación en realidad aumentada. El alumno aprende el lenguaje Java a través de un lenguaje de bloques con el cual controla a un personaje para completar los niveles. Es el resultado de mi Trabajo de Fin de Grado.
+I used to love making little games in blocks based programming languages like Scratch back when that was the best I knew. I believe it is a great way to start programming at any age. The greatest drawback is that you aren't learning a language that's actually used in the real world. That's why I created Code Defender as part of my Undergraduate Thesis Project. Code Defender is an Augmented Reality game where you control a little robot using a block based version of Java in order to beat each one of the 60 different levels, where the player will learn gradually the fundamentals of programming in Java.
 
 ![Code Defender](images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
-- [Demo YouTube](https://youtu.be/mWUIAKRr1v0)
+- [YouTube Demo](https://youtu.be/mWUIAKRr1v0)
 
-### Proyectos en los que he participado.  
+### Projects I took part in:
 
 #### Part-Time Hero
 
-Juego con modo multijugador e historia. En este juego competitivo por equipos, el jugador tendrá que coordinarse con su compañero para crear una serie de pedidos a partir de los recursos que se poporcionarán a partir de una cinta mecánica. Estos recursos son compartidos entre los equipos así como algunas herramientas necesarias. Todo vale con tal de ganar: robar, lanzar monstruos, ralentizar...
-Actualmente se encuentra en desarrollo.
+Multiplayer and singer player game. It is a competitive team game where the player will have to cooperate with his/her pertner to manufacture a series of orders from the resorces provided by the conveyor belts. This resources and some of the tools are shared across all the players so... keep an eye on your stuff! Anything goes as long as you win: from stealing and sabotaging to casting monsters from beyond and other crazy powerups.
 
 ![Part-Time Hero](images/part-time-hero.png)
+- [Itch.io](https://c404games.itch.io/part-time-hero)
 - [GitHub](https://github.com/C404Games/part-time-hero)
-
+- [Demo Youtube](https://youtu.be/MZvVRqupm40)
+- 
 #### AntNest:
 
-Se trata de una simulación de una colonia de hormigas en la que estas cooperan para encontrar y recolectar comida, defenderse de enemigos y hacer crecer el hormiguero. 
+This project has a very self-explainatory name. We used behaviour trees and other techniques to conduct an anthill from its beginning all the way to becoming a huge colony with multiple anthills. The user can switch between different views and tweak settings that affect the environment.
 
 ![AntNest](images/antnest.PNG)
 - [BitBucket](https://bitbucket.org/VictorGonzalezRivera/antnest/src/master/)
+- [Youtube Demo](https://youtu.be/jki-VikbtBE)
 
 #### Pappets:  
 
-Juego de plataformas 2D basado en físicas en el que se controla a una marioneta de forma similar a si se tirase de los hilos.
+2D physics based platform game where you control a string puppet in a peculiar paperboard world. 3 different levels will test skill as a pupeteer to prove that you are worthy of joining the Great Show. Try the WebGL or the Android version from itch.io .
 
 ![Pappets](images/pappets.png)
 - [itch.io](https://glassbeard.itch.io/pappets)  
@@ -45,7 +47,7 @@ Juego de plataformas 2D basado en físicas en el que se controla a una marioneta
 
 #### Good Product Sorter:  
 
-Juego arcade con un toque humorístico en el que se han de clasificar los inusuales objetos que aparecen en la cinta trasportadora según algún criterio.
+Humouristic arcade game. Do you dream of becoming a presigious product sorter? Of course you do! Try your best and you might get to be employee of the month this time.
 
 ![Good Product Sorter](images/gps.png)  
 - [itch.io](https://glassbeard.itch.io/goodproductsorter)  
@@ -53,10 +55,10 @@ Juego arcade con un toque humorístico en el que se han de clasificar los inusua
 
 #### DLabyrinth:  
 
-Juego battle royale multijugador en el que los jugadores deben encontrar armas, munición y otros recursos para sobrevivir ante los demás jugadores. El mapa está dividido en  varias salas que se irán cerrando con el paso del tiempo reduciendo el espacio.
+Multiplayer battle royale game in which the player must find weapons, ammo, and other resources to survive. The different areas of the game will become unavailable every number of minutes to keep thigs more interesting.
 
 ![DLabyrinth](images/dlabyrinth.png)  
 - [GitHub](https://github.com/MRxRafi/DLabyrinth_JeR)  
 
 
-Pásate por mi [GitHub](https://github.com/apozag) y mi [cuenta de YouTube](https://www.youtube.com/channel/UCClrFZQZYE2P-3rf0DiNNRQ) para ver más.  
+Take a look at my [GitHub](https://github.com/apozag) and my [cuenta de YouTube](https://www.youtube.com/channel/UCClrFZQZYE2P-3rf0DiNNRQ) for more.  
