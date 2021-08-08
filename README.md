@@ -8,7 +8,7 @@ I studied a degree in videogame design and developement and a masters degree in 
 
 <ul>
 <li><a href="https://apozag.github.io/Adrian-Poza/games">Games</a></li>
-<li><a href="https://apozag.github.io/Adrian-Poza/migjrv)">Master Degree</a></li>
+<li><a href="https://apozag.github.io/Adrian-Poza/migjrv">Master Degree</a></li>
 </ul>
 
 Take a look at my [GitHub](https://github.com/apozag) and my [YouTube channel](https://www.youtube.com/channel/UCClrFZQZYE2P-3rf0DiNNRQ) for more.  
