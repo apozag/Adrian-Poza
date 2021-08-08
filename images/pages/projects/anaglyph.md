@@ -1,8 +1,4 @@
-# Master Degree Projects
-
-I learned a lot of useful and interesting stuff during my Undergraduate degree. In the Master Degree in Computer Graphics, Games and Virtual Reality at URJC, I did many projects that made me understand how the GPU works as well as some cool math! Here are some of the things we did.
-
-## Anaglyph 3D and marker tracking
+# Anaglyph and marker tracking
 
 This is definitely one of the projects I found more fun. Remember when we used to wear silly red and blue glasses in the movies and made everything pop out of the screen? Well, those were analyph glasses and it is an old but effective way of achieving stereoscopic vision of a 2D image. On the screen, two different images are being displayed at the same time, but with a red and blue filter respectively. In the glasses, one of the "lenses" blocks the red light and the other blocks the blue light, so each eye gets to see one of the two images. There are many other techniques to do this, but that might be too long to explain here. In the case of live action movies, each shot needs to be taken using two cameras with slighly different position and direction, imitating the eyes of a person. In virtual reality, instead of displaying one image on top of the other, we simply show one image to each eye.
 
