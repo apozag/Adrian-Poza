@@ -6,14 +6,14 @@ Stereoscopy makes the viewer able to percieve depth, and tell which objects are 
 
 This is one of the thing why virtual reality works so well: it uses a binocular system to mimimc depth. Therefore, the scene needs to be rendered twice (one for each eye) with different camera configuration. There are two ways of placing the virtual cameras for stereoscopic vision: toe-in and off-axis. 
 
-- Toe-in: given an inter-ocular distance (IOD) and a convergence point (CP), we simply separete the cameras and make them point towards CP. This might be the most intuitive and easy way of implementing sterescopy, but it is actually wrong! Don't do it or you will make people dizzy.
+- Toe-in: given an inter-ocular distance (IOD) and a convergence point (CP), we simply separate the cameras and make them point towards CP. This might be the most intuitive and easy way of implementing sterescopy, but it is actually wrong! Don't do it or you will make people dizzy.
 
 - Off-axis: The camera projection matrix has to be configurated in a way that both projection planes exactly coincide. This will prevent vertical parallax from happening, which is the main drawback of toe-in.
 
-![Binocular camera models](images/stereoscopy.PNG)
+![Binocular camera models](https://apozag.github.io/Adrian-Poza/images/stereoscopy.PNG)
 
 Using OpenGL, we can render each frame twice using the two cameras we have defined and merge them with different color filters. 
 
-Now comes the second part of the project: marker tracking. To do this, we used a library called Aruco, which detects the relative position and rotation of a fixed set of predefined labeled markers. This actually does most of the hard work (I have no idea how it does it). We can extract the transform matrix of the marker and apply it to the two virtual cameras. This will make the scene move around when the marker is moved. If we stick the marker to our forhead, we now have some kind of head tracking! Might sound a bit shabby but it works faily well and the result is truly worth it. We can even use more than one tracker and bind an object to each one. For example, I added a gun that can be controlled with an extra marker. It can't shoot though... Too bad!
+Now comes the second part of the project: marker tracking. To do this, we used a library called Aruco, which detects the relative position and rotation of a fixed set of predefined labeled markers. In this case the input image will come from my rusty webcam. Aruco actually does most of the hard work (I have no idea how it does it). We can extract the transform matrix of the marker and apply it to the two virtual cameras. This will make the scene move around with the marker. If we stick the marker to our forhead, we now have some kind of head tracking! Might sound a bit shabby but it works faily well and the result is truly worth it. We can even use more than one tracker and bind an object to each one. For example, I added a gun that can be controlled with an extra marker. It can't shoot though... Too bad!
 
-![Result](images/tracking.PNG)
+![Result](https://apozag.github.io/Adrian-Poza/images/tracking.PNG)
