@@ -7,5 +7,5 @@ I learned a lot of useful and interesting stuff during my Undergraduate degree. 
 </ul>
 
 <ul>
-<li><a href="https://apozag.github.io/Adrian-Poza/pages/projects/postprocess">Anaglyph and marker tracking</a></li>
+<li><a href="https://apozag.github.io/Adrian-Poza/pages/projects/postprocess">Post-process effects</a></li>
 </ul>

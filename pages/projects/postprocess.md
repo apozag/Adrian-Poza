@@ -11,5 +11,8 @@ Edge detection with and without blur on top.
 ![Edge](https://apozag.github.io/Adrian-Poza/images/edge.PNG)
 ![Edge](https://apozag.github.io/Adrian-Poza/images/blur-edge.PNG)
 
-Image shapening.
+Two image shapening kernels.
 ![Sharp](https://apozag.github.io/Adrian-Poza/images/sharp.PNG)
+
+And finally, the scene without post-process. 
+![Scene](https://apozag.github.io/Adrian-Poza/images/noeffect.PNG)
