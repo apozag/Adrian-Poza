@@ -16,3 +16,17 @@ Two image shapening kernels.
 
 And finally, the scene without post-process. 
 ![Scene](https://apozag.github.io/Adrian-Poza/images/noeffect.PNG)
+
+It takes a bit of artistic taste to actually use this guys in an interesting way. Some day, I promise! Anyway, there is another cool effect we can make with a little change. If we enable blending in OpenGL and set the correct parameters, we will get something similar to motino blur. Here is the required code for that: 
+
+```c++
+glEnable(GL_BLEND);
+glBlendFunc(GL_CONSTANT_COLOR, GL_CONSTANT_ALPHA);
+glBlendColor(blendingColorMB, blendingColorMB, blendingColorMB, alphaMB);
+glBlendEquation(GL_FUNC_ADD);
+```
+
+we have to use "glDisable(GL_BLEND)" whenever we want the blending to stop taking effect. In our case, we enable it before rendering the final processed image to the default framebuffer and disable it afterwards so it doesn't affect the other passes. The result look something like this: 
+
+![Motion](https://apozag.github.io/Adrian-Poza/images/motion.PNG)
+
