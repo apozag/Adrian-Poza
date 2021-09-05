@@ -1,6 +1,6 @@
 # Adrián Poza Guillermo
 
-![Me](https://apozag.github.io/Adrian-Poza/images/me.jpeg)
+<img src="https://apozag.github.io/Adrian-Poza/images/me.jpeg" alt="Me" width="100"/>
 
 ## About me
 
