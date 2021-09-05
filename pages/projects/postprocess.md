@@ -26,7 +26,7 @@ glBlendColor(blendingColorMB, blendingColorMB, blendingColorMB, alphaMB);
 glBlendEquation(GL_FUNC_ADD);
 ```
 
-we have to use "glDisable(GL_BLEND)" whenever we want the blending to stop taking effect. In our case, we enable it before rendering the final processed image to the default framebuffer and disable it afterwards so it doesn't affect the other passes. The result look something like this: 
+we have to use "glDisable(GL_BLEND)" whenever we want the blending to stop taking effect. In our case, we enable it before rendering the final processed image to the default framebuffer and disable it afterwards so it doesn't affect the other passes. The result looks like this: 
 
 ![Motion](https://apozag.github.io/Adrian-Poza/images/motion.PNG)
 
