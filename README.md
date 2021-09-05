@@ -1,6 +1,6 @@
 # Adrián Poza Guillermo
 
-<img src="https://apozag.github.io/Adrian-Poza/images/me.jpeg" alt="Me" width="100"/>
+<div style="text-align: right"><img src="https://apozag.github.io/Adrian-Poza/images/me.jpeg" alt="Me" width="200"/></div>
 
 ## About me
 
