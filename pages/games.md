@@ -17,7 +17,7 @@ I used to love making little games in blocks based programming languages like Sc
 
 ![Code Defender](https://apozag.github.io/Adrian-Poza/images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
-- [YouTube Demo](https://youtu.be/mWUIAKRr1v0)
+- [Demo Video](https://www.linkedin.com/posts/adrian-poza-guillermo-8a529b179_augmentedreality-android-mobilegame-activity-6730536821681356800-jdJX)
 
 <br>
 
