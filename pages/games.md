@@ -2,6 +2,15 @@
 
 ### Personal Projects:
 
+#### Unnamed strategy game:
+
+I started creating a game in Java just to kinda see what I could come up with, and began to take shape into a potententially cool game, so I stuck with it for a while. It is still in a very early stage, using pretty bad pixelart graphics I create on the go. I'm looking forward having a little more time to develop it in the near future. It has a very basic UI with which to create buildings and characters. This characters behave autonomously depending on their role and cooperate to generate and manage resources.
+
+![StrategyGame](https://apozag.github.io/Adrian-Poza/images/strategy-game.png)
+- [GitHub](https://github.com/apozag/strategy-game)
+
+</br>
+
 #### Code Defender:
 
 I used to love making little games in blocks based programming languages like Scratch back in the day. I believe it is a great way to start programming at any age. The greatest drawback is that you aren't learning a language that's actually used in the real world. That's why I created Code Defender as part of my Undergraduate Thesis Project. Code Defender is an Augmented Reality game where you control a little robot using a block based version of Java in order to beat each one of the 60 different levels, where the player will learn gradually the fundamentals of programming in Java.
@@ -9,6 +18,8 @@ I used to love making little games in blocks based programming languages like Sc
 ![Code Defender](https://apozag.github.io/Adrian-Poza/images/codedefender.jpg)
 - [GitHub](https://github.com/apozag/code-defender)
 - [YouTube Demo](https://youtu.be/mWUIAKRr1v0)
+
+</br>
 
 ### Projects I took part in:
 
@@ -20,7 +31,9 @@ Multiplayer and singer player game. It is a competitive team game where the play
 - [Itch.io](https://c404games.itch.io/part-time-hero)
 - [GitHub](https://github.com/C404Games/part-time-hero)
 - [Demo Youtube](https://youtu.be/MZvVRqupm40)
-- 
+
+</br>
+
 #### AntNest:
 
 This project has a very self-explainatory name. We used behaviour trees and other techniques to conduct an anthill from its beginning all the way to becoming a huge colony with multiple anthills. The user can switch between different views and tweak settings that affect the environment.
@@ -28,6 +41,8 @@ This project has a very self-explainatory name. We used behaviour trees and othe
 ![AntNest](https://apozag.github.io/Adrian-Poza/images/antnest.PNG)
 - [BitBucket](https://bitbucket.org/VictorGonzalezRivera/antnest/src/master/)
 - [Youtube Demo](https://youtu.be/jki-VikbtBE)
+
+</br>
 
 #### Pappets:  
 
@@ -37,6 +52,8 @@ This project has a very self-explainatory name. We used behaviour trees and othe
 - [itch.io](https://glassbeard.itch.io/pappets)  
 - [GitHub](https://github.com/GlassBeardTeam/Puppet)  
 
+</br>
+
 #### Good Product Sorter:  
 
 Humouristic arcade game. Do you dream of becoming a presigious product sorter? Of course you do! Try your best and you might get to be employee of the month this time.
@@ -44,6 +61,8 @@ Humouristic arcade game. Do you dream of becoming a presigious product sorter? O
 ![Good Product Sorter](https://apozag.github.io/Adrian-Poza/images/gps.png)  
 - [itch.io](https://glassbeard.itch.io/goodproductsorter)  
 - [GitHub](https://github.com/GlassBeardTeam/GoodProductSorter)  
+
+</br>
 
 #### DLabyrinth:  
 
