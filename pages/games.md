@@ -9,7 +9,7 @@ I started creating a game in Java just to kinda see what I could come up with, a
 ![StrategyGame](https://apozag.github.io/Adrian-Poza/images/strategy-game.PNG)
 - [GitHub](https://github.com/apozag/strategy-game)
 
-</br>
+<br>
 
 #### Code Defender:
 
@@ -19,7 +19,7 @@ I used to love making little games in blocks based programming languages like Sc
 - [GitHub](https://github.com/apozag/code-defender)
 - [YouTube Demo](https://youtu.be/mWUIAKRr1v0)
 
-</br>
+<br>
 
 ### Projects I took part in:
 
@@ -32,7 +32,7 @@ Multiplayer and singer player game. It is a competitive team game where the play
 - [GitHub](https://github.com/C404Games/part-time-hero)
 - [Demo Youtube](https://youtu.be/MZvVRqupm40)
 
-</br>
+<br>
 
 #### AntNest:
 
@@ -42,7 +42,7 @@ This project has a very self-explainatory name. We used behaviour trees and othe
 - [BitBucket](https://bitbucket.org/VictorGonzalezRivera/antnest/src/master/)
 - [Youtube Demo](https://youtu.be/jki-VikbtBE)
 
-</br>
+<br>
 
 #### Pappets:  
 
@@ -52,7 +52,7 @@ This project has a very self-explainatory name. We used behaviour trees and othe
 - [itch.io](https://glassbeard.itch.io/pappets)  
 - [GitHub](https://github.com/GlassBeardTeam/Puppet)  
 
-</br>
+<br>
 
 #### Good Product Sorter:  
 
@@ -62,7 +62,7 @@ Humouristic arcade game. Do you dream of becoming a presigious product sorter? O
 - [itch.io](https://glassbeard.itch.io/goodproductsorter)  
 - [GitHub](https://github.com/GlassBeardTeam/GoodProductSorter)  
 
-</br>
+<br>
 
 #### DLabyrinth:  
 
