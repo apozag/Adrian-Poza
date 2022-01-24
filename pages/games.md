@@ -6,7 +6,7 @@
 
 I started creating a game in Java just to kinda see what I could come up with, and began to take shape into a potententially cool game, so I stuck with it for a while. It is still in a very early stage, using pretty bad pixelart graphics I create on the go. I'm looking forward having a little more time to develop it in the near future. It has a very basic UI with which to create buildings and characters. This characters behave autonomously depending on their role and cooperate to generate and manage resources.
 
-![StrategyGame](https://apozag.github.io/Adrian-Poza/images/strategy-game.png)
+![StrategyGame](https://apozag.github.io/Adrian-Poza/images/strategy-game.PNG)
 - [GitHub](https://github.com/apozag/strategy-game)
 
 </br>
