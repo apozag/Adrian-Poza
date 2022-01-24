@@ -11,5 +11,5 @@ I learned a lot of useful and interesting stuff during my Undergraduate degree. 
 </ul>
 
 <ul>
-<li><a href="https://apozag.github.io/Adrian-Poza/pages/projects/meshes">Mesh processing</a></li>
+<li>Hopefully will have time to post more some time...</a></li>
 </ul>
